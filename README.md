@@ -10,6 +10,7 @@
 <img align="left" alt="replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" />
 
 ---
+
 ## 📺 Latest Youtube Videos
 
 - [The BEST Skywars Kit!](https://www.youtube.com/watch?v=BtauNJCtZss)
@@ -28,10 +29,11 @@
 <a href="https://www.youtube.com/channel/UCuSarCwVritsMrqOiaktuUQ">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
+<a href="https://www.twitch.tv/cruzytwastaken">
+    <img src="https://air-marketing-assets.imgix.net/blog/logo-db/twitch-logo-png/twitch-logo-png-1.png?auto=format&fit=max&ixlib=react-9.0.2&h=270&w=576" alt="Twitch" width="80"/>
+  </a>
 </p>
 
 ---
 
 **👋 [CruzSucksAtCoding](https://github.com/CruzSucksAtCoding)**
-###### the name is not true... well...
-
