@@ -7,12 +7,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
+<img align="left" alt="replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" />
 
-#---
+---
 ## 📺 Latest Youtube Videos
 
-- [The BEST Skywars Kit!](\https://www.youtube.com/watch?v=BtauNJCtZss&t=15s)
+- [The BEST Skywars Kit!](https://www.youtube.com/watch?v=BtauNJCtZss)
 - [how to be epic gamer in bedwars](https://youtu.be/neoUNELQ4UA)
 - [If I die in bedwars, the video ends...](https://youtu.be/zE8i-2Wp7Zc)
 - [The Laggiest Bedwars Game Ever...](https://youtu.be/60A4OdN9yv0)
