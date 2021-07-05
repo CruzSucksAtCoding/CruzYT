@@ -11,29 +11,4 @@
 
 ---
 
-## 📺 Latest Youtube Videos
-
-- [The BEST Skywars Kit!](https://www.youtube.com/watch?v=BtauNJCtZss)
-- [how to be epic gamer in bedwars](https://youtu.be/neoUNELQ4UA)
-- [If I die in bedwars, the video ends...](https://youtu.be/zE8i-2Wp7Zc)
-- [The Laggiest Bedwars Game Ever...](https://youtu.be/60A4OdN9yv0)
-- [Obsidian ONLY... (Bedwars)](https://www.youtube.com/watch?v=WSip2NyGwhI&t=98s)
-
----
-## 📱 My Social Medias
-
-<p align="center">
-<a href="https://discord.gg/cFxqtytyRs">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-<a href="https://www.youtube.com/channel/UCuSarCwVritsMrqOiaktuUQ">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
-<a href="https://www.twitch.tv/cruzytwastaken">
-    <img src="https://air-marketing-assets.imgix.net/blog/logo-db/twitch-logo-png/twitch-logo-png-1.png?auto=format&fit=max&ixlib=react-9.0.2&h=270&w=576" alt="Twitch" width="80"/>
-  </a>
-</p>
-
----
-
 **👋 [CruzSucksAtCoding](https://github.com/CruzSucksAtCoding)**
